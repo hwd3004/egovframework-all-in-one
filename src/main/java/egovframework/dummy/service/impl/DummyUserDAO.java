@@ -9,6 +9,7 @@ import egovframework.dummy.model.DummyUser;
 public class DummyUserDAO extends EgovComAbstractDAO {
 
 	public int signup(DummyUser dummyUser) {
+		return 0;
 //		return insert(, dummyUser);
 	}
 
